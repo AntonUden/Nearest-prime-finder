@@ -1,0 +1,9 @@
+##################
+## Code::Blocks ##
+##################
+[Bb]in/*
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+*.depend
+*.layout
